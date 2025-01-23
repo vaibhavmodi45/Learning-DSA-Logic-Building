@@ -18,7 +18,7 @@ int main() {
     float pi = 3.14;  //This line of code shows that the variable pi will store the floating point value which is 3.14.
     char myName = 'v';   //This line of code shows that the variable myName store the character value which is v.
     bool eligible = false;   //This line of code shows that the variable eligible stores the boolean value that is false.
-
+    double price = 10.3333;   //This line of code shows that the variable eligible stores the boolean value that is false.
     cout << a << endl;
     cout << pi << endl;
     cout << myName << endl;
