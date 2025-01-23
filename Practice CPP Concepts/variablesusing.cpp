@@ -20,10 +20,11 @@ int main() {
     bool eligible = false;   //This line of code shows that the variable eligible stores the boolean value that is false.
     double price = 10.3333;   //This line of code shows that the variable eligible stores the boolean value that is false.
     cout << a << endl;
-    
+
     cout << pi << endl;
     cout << myName << endl;
     cout << eligible << endl;
+    cout << price << endl;
     return 0;
 }
 
