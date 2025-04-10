@@ -12,3 +12,4 @@ int main(){
     cout << "After swapping: a = " << a << ", b = " << b << endl;
     return 0;
 }
+// This program swaps two numbers using a temporary variable. It first takes input for the two numbers, then swaps them using a temporary variable, and finally prints the swapped values.
