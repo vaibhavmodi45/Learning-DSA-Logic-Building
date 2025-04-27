@@ -6,6 +6,7 @@ int main() {
     cout << "Enter two numbers: ";
     cin >> a >> b;
 
+    // Perform arithmetic operations
     int sum = a + b;
     int difference = a - b;
     int product = a * b;
