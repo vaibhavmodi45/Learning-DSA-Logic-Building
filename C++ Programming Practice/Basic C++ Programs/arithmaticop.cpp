@@ -13,6 +13,7 @@ int main() {
     float division = float(a / b); // Cast to float for accurate division21
     int modulus = a % b;
 
+    cout << "The Below are the Calculations" << endl;
     cout << "Sum: " << sum << endl;
     cout << "Difference: " << difference << endl;
     cout << "Product: " << product << endl;
