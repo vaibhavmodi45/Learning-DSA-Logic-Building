@@ -19,4 +19,5 @@ int main() {
     cout << "Product: " << product << endl;
     cout << "Division: " << division << endl;
     cout << "Modulus: " << modulus << endl;
+    cout << "for practice";
 }
