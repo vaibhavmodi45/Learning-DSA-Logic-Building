@@ -10,3 +10,4 @@ int main() {
         cout << endl;
     }
 }
+// This was downstar pattern with *
