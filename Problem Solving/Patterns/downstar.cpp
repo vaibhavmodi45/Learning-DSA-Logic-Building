@@ -11,3 +11,4 @@ int main() {
     }
 }
 // This was downstar pattern with *
+// Also some adjs
