@@ -10,5 +10,6 @@ int main() {
         cout << endl;
     }
 }
+cout << "Hello";
 // This was downstar pattern with *
 // Also some adjs
