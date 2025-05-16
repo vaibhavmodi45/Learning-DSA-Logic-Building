@@ -15,3 +15,4 @@ cout << "Hello again";
 // This was downstar pattern with *
 // Also some adjs
 // Just to make the streak
+// This is also to maintain the streak and from monday we'll continue to do as usual.
