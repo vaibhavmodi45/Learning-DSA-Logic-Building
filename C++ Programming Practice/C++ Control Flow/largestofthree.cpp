@@ -3,7 +3,7 @@ using namespace std;
 
 int main() {
     int a, b, c;
-    cout << "Enter values of a, b & c";
+    cout << "Enter values of a, b & c =" << endl;
     cin >> a >> b >> c;
 
     // Finding the largest by comparing using
