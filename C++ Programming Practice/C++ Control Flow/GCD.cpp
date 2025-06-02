@@ -1,21 +1,14 @@
-// #include<iostream>
-// using namespace std;
-
-// int main() {
-//     int n;
-//     cout <<
-// }
-
-// C++ program to find gcd of two numbers using 
-// inbuilt __gcd() and gdc() function
 #include <bits/stdc++.h>
 using namespace std;
 
 int main() {
-  	int a = 24, b = 16;
+  	int a, b;
+	cout << "Enter a and b = ";
+	cin >> a >> b;
 
 	// Finding gcd of a and b using __gcd()
   	cout << __gcd(a, b) << endl;
   
 	return 0;
 }
+
