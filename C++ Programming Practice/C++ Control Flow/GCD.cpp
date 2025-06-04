@@ -10,5 +10,6 @@ int main() {
   	cout << __gcd(a, b) << endl;
   
 	return 0;
+	// something
 }
 
