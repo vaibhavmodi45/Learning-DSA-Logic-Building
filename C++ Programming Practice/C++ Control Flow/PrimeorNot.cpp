@@ -5,7 +5,7 @@ int main() {
     int a;
     cout << "Enter a Number = ";
     cin >> a;
-    int count = 0;
+    int cnt = 0;
 
     if( a <= 1 ){
         cout << "Not a Prime";
@@ -13,11 +13,11 @@ int main() {
 
     for(int i = 1; i <= a; i++) {
         if(a % i == 0) {
-            count++;
+            cnt++;
         }
     }
 
-    if( count > 2) {
+    if( cnt > 2) {
         cout << "Not a Prime";
     }
     else {
