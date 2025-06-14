@@ -1,5 +1,3 @@
-// A neon number is a number where the sum of digits of the square of the number is equal to the number. The task is to check and print neon numbers in a range.
-
 #include<iostream>
 using namespace std;
 
