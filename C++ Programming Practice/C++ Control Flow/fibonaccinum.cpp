@@ -7,10 +7,11 @@ int main() {
     cin >> n;
     int first = 0;
     int second = 1;
+    int next;
 
-    for (int i = first; i <= n; i ++) {
+    for (int i = first; i < n; i ++) {
         cout << first << " ";
-        int next = first + second;
+        next = first + second;
         first = second;
         second = next;
     }
