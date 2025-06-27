@@ -10,8 +10,6 @@ int main() {
         cout << endl;
     }
 }
-cout << "Hello";
-cout << "Hello again";
 // This was downstar pattern with *
 // Also some adjs
 // Just to make the streak
